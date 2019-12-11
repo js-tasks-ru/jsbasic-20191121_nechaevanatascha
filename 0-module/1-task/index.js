@@ -8,4 +8,3 @@ function sum(m, n) {
   let number = m + n;
   return number;
 }
-
